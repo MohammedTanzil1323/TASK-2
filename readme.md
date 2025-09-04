@@ -1,6 +1,6 @@
 # Quotation Microservice
 
-A FastAPI-based microservice for generating quotations with email drafts using Google's Gemini AI.
+A FastAPI-based microservice for generating quotations with email drafts using Google's Gemini AI.(OFFLINE CURRENTLY, NOT DEPLOYED YET)
 
 ## Features
 
@@ -36,4 +36,5 @@ A FastAPI-based microservice for generating quotations with email drafts using G
   ],
   "delivery_terms": "Delivery terms",
   "notes": "Additional notes"
+
 }
